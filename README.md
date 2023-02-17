@@ -18,6 +18,7 @@ A curated list of some amazing data visualization projects made by the community
 - [Top 5 european soccer leagues visualization](https://github.com/somdeep/Statball) by [Somdeep](https://github.com/somdeep)
 - [Dashboard to visualise earthquakes worldwide since 2000](https://github.com/pierrotsmnrd/earthquakes) by [pierrotsmnrd](https://github.com/pierrotsmnrd)
 - [A Project that visualizes Pi decimals in various ways](https://github.com/GiveMePseudonyms/PiVisualisations) by [GiveMePseudonyms](https://github.com/GiveMePseudonyms)
+- [An experiment in visualizing relative wealth in terms viewers may find more natural to grasp.](https://github.com/dmotz/GildedGauge) by [Dan Motzenbecker (dmotz)](https://github.com/dmotz)
 
 ## Open Source Tools
 
